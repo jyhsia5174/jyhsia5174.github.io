@@ -1,4 +1,10 @@
-# 2021 Weekly Challenge !!
+# 2021 Challenge
+
+## Whole Year
+
+- 30 books
+
+## 2021 Weekly Challenge !!
 
 Week | Task
 -----|-----
