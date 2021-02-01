@@ -23,6 +23,31 @@ Week | Task | Progress | Reflection
 
 ## Reflection
 
+### Week 4 (Burnout)
+
+- Unsuccessful defense against bunrout:
+
+Consequences:
+
+1. Unproductive at Fri, Sat and Sun.
+2. Feel bad about myself.
+3. Disrupted life style (poor sleep quality / bing-watch Netflix & Youtube / Insufficient excercise )
+
+Possible sourece:
+1. Gauss-Newton EXP
+2. Interview meeting with Google HR.
+3. Interview bomb from Shoppee.
+4. Lab funding plan and reimbursement.
+5. Unintended commitment toward software development.
+6. Uncatched self-challenged progress.
+7. Extensive working on CV, which is deeply related to my self-worth and validation.
+
+Possible solution:
+
+1. Seek out companion to reduce anxiety.
+2. Prioritize and Execute. Remake a workable schedule.
+3. Meditation and Exercise.
+
 ### Week 3
 
 - The relation between level and node of tree:
