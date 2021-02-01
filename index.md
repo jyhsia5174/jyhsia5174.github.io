@@ -2,7 +2,7 @@
 
 [Git Repo](https://github.com/jyhsia5174/jyhsia5174.github.io)
 
-[Gauss Newton](jyhsia5174.github.io/gauss-newton.md)
+[Gauss Newton](https://jyhsia5174.github.io/gauss-newton.md)
 
 ## Whole Year
 
