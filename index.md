@@ -1,7 +1,8 @@
 # 2021 Challenge
 
 [Git Repo](https://github.com/jyhsia5174/jyhsia5174.github.io)
-[Gauss Newton](https://github.com/jyhsia5174/jyhsia5174.github.io/blob/master/gauss-newton.md)
+
+[Gauss Newton](jyhsia5174.github.io/gauss-newton.md)
 
 ## Whole Year
 
