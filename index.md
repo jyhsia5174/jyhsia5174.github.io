@@ -16,7 +16,7 @@ Mock Google Phone Interview (1/18) | 4.20/10
 ## 2021 Weekly Challenge !!
 
 Week | Task | Progress | Reflection
------|-----|-----
+-----|-----|-----|-----
 3 | Google explore (45 / 85) | 100 / 100 | Done
 4 | Recursion I (10/21) / Recursion II (12/25) <br> Amazon (Array & String: 9) (Recursion 2) / FB (Recursion 6) |  50 / 100 | 
 
