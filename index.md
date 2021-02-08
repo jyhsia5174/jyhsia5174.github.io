@@ -8,7 +8,9 @@
 
 ## Whole Year
 
-- 30 books
+- 30 books (finished: 3 / 30)
+
+[2021 Reading Challenge](https://www.goodreads.com/user_challenges/26399475)
 
 ## Evaluation Result
 
