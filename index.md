@@ -21,12 +21,23 @@ Mock Google Phone Interview (1/18) | 4.20/10
 
 Week | Task | Progress | Reflection
 -----|-----|-----|-----
-5 | ~~Recursion II (7/25)~~ <br> ~~Amazon (Array & String: 9 / Recursion: 2)~~ <br> ~~FB (Recursion 6)~~ <br>  Gauss Newton Experiment Organization <br> | 90 / 100 |
-4 | ~~Recursion I (10/21)~~ <br> ~~Recursion II (12/25)~~ <br> ~~Amazon (Array & String: 9 / Recursion 2)~~ <br> FB (Recursion 6)  |  50 / 100 | 
+6 | Redo 30 leecode non-mastered problems. (include week 5 failed algo) <br> Google other halp problem <br> Gauss Newton Experiment Organization <br> | Progress | Reflection
+5 | ~~Recursion II (7/25)~~ <br> ~~Amazon (Array & String: 9 / Recursion: 2)~~ <br> ~~FB (Recursion 6)~~ <br>  Gauss Newton Experiment Organization <br> | 90 / 100 | Done
+4 | ~~Recursion I (10/21)~~ <br> ~~Recursion II (12/25)~~ <br> ~~Amazon (Array & String: 9 / Recursion 2)~~ <br> FB (Recursion 6)  |  50 / 100 | Done
 3 | ~~Google explore (45 / 85)~~ | 100 / 100 | Done
 
 
 ## Reflection
+
+### Week 5
+
+- Algorithm
+
+1. read problem and test cases!! Don't rush to write code.
+2. KMP algo.
+3. segmentation tree structure
+4. reduced segmentation tree structure
+5. binary search termitation condition
 
 ### Week 4 (Burnout)
 
