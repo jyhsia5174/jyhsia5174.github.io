@@ -31,6 +31,72 @@ Week | Task | Progress | Reflection
 
 ## Reflection
 
+### Week 6
+
+```
+int left = 0, right = nums.size() - 1;
+while(left <= right){
+    // Prevent (left + right) overflow
+    int mid = left + (right - left) / 2;
+    if(nums[mid] == target){ return mid; }
+    else if(nums[mid] < target) { left = mid + 1; }
+    else { right = mid - 1; }
+}
+/*
+sub     len break?  mid lsub    llen    rsub    rlen
+[0,-1]  -1  y
+[0,0]   1   n       0   [0,-1]  -1      [1,0]   -1
+[0,1]   2   n       0   [0,-1]  -1      [1,1]   1
+[0,2]   3   n       1   [0,0]   1       [2,2]   1
+[0,3]   4   n       1   [0,0]   1       [2,3]   2
+[0,4]   5   n       2   [0,1]   2       [3,4]   2
+*/
+```
+
+```
+int left = 0, right = nums.size();
+while(left < right){
+    // Prevent (left + right) overflow
+    int mid = left + (right - left) / 2;
+    if(nums[mid] == target){ return mid; }
+    else if(nums[mid] < target) { left = mid + 1; }
+    else { right = mid; }
+}
+/*
+sub     len break?  mid lsub    llen    rsub    rlen 
+[0,-1)  -1  y
+[0,0)   0   y
+[0,1)   1   n       0   [0, 0)  0       [1, 1)  0
+[0,2)   2   n       1   [0, 1)  1       [2, 2)  0
+[0,3)   3   n       1   [0, 1)  1       [2, 3)  1
+[0,4)   4   n       2   [0, 2)  2       [3, 4)  1
+*/
+```
+
+```
+int left = 0, right = nums.size() - 1;
+while (left + 1 < right){
+    // Prevent (left + right) overflow
+    int mid = left + (right - left) / 2;
+    if (nums[mid] == target) {
+        return mid;
+    } else if (nums[mid] < target) {
+        left = mid;
+    } else {
+        right = mid;
+    }
+}
+/*
+sub     len break   mid lsub    lLen    rsub    rLen
+[0,-1]  0   y
+[0,0]   1   y
+[0,1]   2   y
+[0,2]   3   n       1   [0,1]   2       [1,2]   2
+[0,3]   4   n       2   [0,2]   3       [2,3]   2
+[0,4]   5   n       2   [0,2]   3       [2,4]   4
+*/
+```
+
 ### Week 5
 
 - Algorithm
