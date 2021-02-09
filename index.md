@@ -33,7 +33,8 @@ Week | Task | Progress | Reflection
 
 ### Week 6
 
-```
+- Binary Search
+```cpp
 int left = 0, right = nums.size() - 1;
 while(left <= right){
     // Prevent (left + right) overflow
@@ -53,7 +54,7 @@ sub     len break?  mid lsub    llen    rsub    rlen
 */
 ```
 
-```
+```cpp
 int left = 0, right = nums.size();
 while(left < right){
     // Prevent (left + right) overflow
@@ -73,7 +74,7 @@ sub     len break?  mid lsub    llen    rsub    rlen
 */
 ```
 
-```
+```cpp
 int left = 0, right = nums.size() - 1;
 while (left + 1 < right){
     // Prevent (left + right) overflow
