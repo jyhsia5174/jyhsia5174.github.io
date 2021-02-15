@@ -21,14 +21,18 @@ Mock Google Phone Interview (1/18) | 4.20/10
 
 ## 2021 Weekly Challenge !!
 
-Week | Task | Progress | Reflection
------|-----|-----|-----
-8 | Binary Tree Revisit <br> | ----- | -----
-7 | Google Problem (40) <br> | Progress | Reflection
-6\* | ~~Binary Search (15)~~ <br> Find seg tree & KMP problem <br> Gauss Newton Experiment Organization <br> | 80 / 100 | done
-5 | ~~Recursion II (7/25)~~ <br> ~~Amazon (Array & String: 9 / Recursion: 2)~~ <br> ~~FB (Recursion 6)~~ <br>  Gauss Newton Experiment Organization <br> | 90 / 100 | Done
-4 | ~~Recursion I (10/21)~~ <br> ~~Recursion II (12/25)~~ <br> ~~Amazon (Array & String: 9 / Recursion 2)~~ <br> FB (Recursion 6)  |  50 / 100 | Done
-3 | ~~Google explore (45 / 85)~~ | 100 / 100 | Done
+Seek More Challenge Score:
+
+"The day we stop learning is the day we die" by Michael Scott, The Warlock
+
+Week | Task | Progress |  (*) Challenge Overcome  | Reflection
+-----|-----|-----|-----|-----
+8 | Binary Tree Revisit <br> | ----- | ----- | -----
+7 | Google Problem (40) <br> | Progress | Challenge Overcome  | Reflection
+6\* | ~~Binary Search (15)~~ <br> Find seg tree & KMP problem <br> Gauss Newton Experiment Organization <br> | 80 / 100 | ** | done
+5 | ~~Recursion II (7/25)~~ <br> ~~Amazon (Array & String: 9 / Recursion: 2)~~ <br> ~~FB (Recursion 6)~~ <br>  Gauss Newton Experiment Organization <br> | 90 / 100 | ? |Done
+4 | ~~Recursion I (10/21)~~ <br> ~~Recursion II (12/25)~~ <br> ~~Amazon (Array & String: 9 / Recursion 2)~~ <br> FB (Recursion 6)  |  50 / 100 | ? | Done
+3 | ~~Google explore (45 / 85)~~ | 100 / 100 | ? | Done
 
 
 ## Reflection
