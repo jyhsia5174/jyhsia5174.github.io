@@ -37,6 +37,8 @@ Week | Task | Progress | Reflection
 - Plan
 task | reason | consequence of no doing
 -----|-----|-----
+task | reason | consequence of no doing
+
 - Reflection
 
 ### Week 7
