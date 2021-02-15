@@ -35,6 +35,7 @@ Week | Task | Progress | Reflection
 ### Week Template
 
 - Plan
+
 task | reason | consequence of no doing
 -----|-----|-----
 task | reason | consequence of no doing
