@@ -24,7 +24,7 @@ Mock Google Phone Interview (1/18) | 4.20/10
 Week | Task | Progress | Reflection
 -----|-----|-----|-----
 7 | Google Problem (40) <br> | Progress | Reflection
-6\* | ~~Binary Search (15)~~ <br> Find seg tree & KMP problem <br> Gauss Newton Experiment Organization <br> | Progress | Reflection
+6\* | ~~Binary Search (15)~~ <br> Find seg tree & KMP problem <br> Gauss Newton Experiment Organization <br> | 80 / 100 | done
 5 | ~~Recursion II (7/25)~~ <br> ~~Amazon (Array & String: 9 / Recursion: 2)~~ <br> ~~FB (Recursion 6)~~ <br>  Gauss Newton Experiment Organization <br> | 90 / 100 | Done
 4 | ~~Recursion I (10/21)~~ <br> ~~Recursion II (12/25)~~ <br> ~~Amazon (Array & String: 9 / Recursion 2)~~ <br> FB (Recursion 6)  |  50 / 100 | Done
 3 | ~~Google explore (45 / 85)~~ | 100 / 100 | Done
@@ -32,7 +32,35 @@ Week | Task | Progress | Reflection
 
 ## Reflection
 
-### Week 6
+### Week Template
+
+- Plan
+task | reason | consequence of no doing
+-----|-----|-----
+- Reflection
+
+### Week 7
+
+- Plan
+
+task | reason | consequence of no doing
+-----|-----|-----
+Google Problem (40) | I need to practice for interview | 1. don't get a job
+Take TA courses | I already commited to CJ that I will take TA position. | 1. piss of CJ <br> leave lab
+Gauss Newton Experiment Organization| I feel like I have to complete a thing if it has stared | 1. not able to graduate
+
+### Week 6 (Spring festival)
+
+- I feel like that I stuck in between 'I should work' & 'I don't feel like to'.
+1. Result: read books / youtube / netflix
+2. Kind of feel guilty about not working. (Expetation / Reality mismatched )
+
+- Overestimated my ability to overcome the enviroment factor (Comformity)
+```
+Conformity is the act of matching attitudes, beliefs, and behaviors to group norms, politics or being like-minded. Norms are implicit, specific rules, shared by a group of individuals, that guide their interactions with others.
+```
+
+- I do not have a strong why to take spring festival. This may leads to that I don't feel that I 'live' my life.
 
 - Binary Search
 ```cpp
