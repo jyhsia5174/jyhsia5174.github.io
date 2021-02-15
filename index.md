@@ -47,7 +47,7 @@ task | reason | consequence of no doing
 -----|-----|-----
 Google Problem (40) | I need to practice for interview | 1. don't get a job
 Take TA courses | I already commited to CJ that I will take TA position. | 1. piss of CJ <br> leave lab
-Gauss Newton Experiment Organization| I feel like I have to complete a thing if it has stared <br> feel guilty about taking money without doing research | 1. not able to graduate
+Gauss Newton Experiment Organization| I feel like I have to complete a thing if it has stared <br> feel guilty about taking money without doing research | 1. piss of CJ <br> leave lab
 
 ### Week 6 (Spring festival)
 
