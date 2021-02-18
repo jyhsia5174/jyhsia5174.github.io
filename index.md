@@ -57,12 +57,12 @@ Break the bubble (Do 2 sim-interview) | The fear of being wrong should be overco
 Find seg tree & KMP problem | I need to practice for interview | 1. don't get a job
 ~~Take TA courses~~ | I already commited to CJ that I will take TA position. | 1. piss of CJ <br> leave lab
 Compiel Gauss Newton PDF | I feel like I have to complete a thing if it has stared <br> feel guilty about taking money without doing research | 1. piss of CJ <br> leave lab
-
-- Suspended
-
-task | reason | consequence of no doing
------|-----|-----
+Suspended |-----|-----
 Google Problem (40) | I need to practice for interview | 1. don't get a job
+
+- Lesson
+
+1. Each time think of recursive problem, think of dynamic programming.
 
 
 ### Week 6 (Spring festival)
