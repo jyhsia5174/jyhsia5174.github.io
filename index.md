@@ -18,6 +18,7 @@
 
 Eval Name | Date | Score | lesson
 -----|-----|-----|-----
+Google Online Assessment | 2/19 | 6.26/10 | segmentation tree implementation 
 Google On-Site Interview | 2/18 | 4.83/10 | recurssion & dp relation
 Google Phone Interview | 1/18 | 4.20/10 | none
 
