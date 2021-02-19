@@ -14,6 +14,8 @@
 
 ## Evaluation Result
 
+"Understanding what is true is essential for success, and being radically transparent about everything, including mistakes and weaknesses, helps create the understanding that leads to improvements." by Ray Dalio.
+
 Eval Name | Date | Score | lesson
 -----|-----|-----|-----
 Google On-Site Interview | 2/18 | 4.83/10 | recurssion & dp relation
