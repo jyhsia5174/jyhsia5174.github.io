@@ -2,6 +2,8 @@
 
 [Git Repo](https://github.com/jyhsia5174/jyhsia5174.github.io)
 
+[LeetCode](https://github.com/jyhsia5174/leetcode.solution)
+
 [Gauss Newton](https://jyhsia5174.github.io/gauss-newton.md)
 
 [Calendar](https://calendar.google.com/calendar/u/0/r)
