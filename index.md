@@ -18,7 +18,7 @@
 
 Eval Name | Date | Score | lesson
 -----|-----|-----|-----
-Shoppee OJ | 2/20 | 1/2 | Prepare more on parsing for delimits / Some problem my forbid using std lib.
+Shoppee OJ | 2/20 | 1/2 | Prepare more on parsing for delimits <br> Some problem my forbid using std lib <br> implement priority que fail
 Google Online Assessment | 2/19 | 6.26/10 | segmentation tree implementation 
 Google On-Site Interview | 2/18 | 4.83/10 | recurssion & dp relation
 Google Phone Interview | 1/18 | 4.20/10 | none
