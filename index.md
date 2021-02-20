@@ -53,6 +53,7 @@ task | reason | consequence of no doing
 -----|-----|-----
 List all basic data structure & practice it if I am not familiar with it | High-level review my week spot | growing blind spot
 Redo problem over 100 readiness score. Target number is 45. | Review past failure and overcome it. | Not improving.
+Mock 5 round | Don't hide from reality | Not improving
 
 - Reflection
 
@@ -74,6 +75,7 @@ Google Problem (40) | I need to practice for interview | 1. don't get a job
 
 1. Each time think of recursive problem, think of dynamic programming.
 2. The burn out principle work! Keep that rule.
+3. Code book.
 
 
 ### Week 6 (Spring festival)
