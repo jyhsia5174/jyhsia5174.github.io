@@ -52,7 +52,21 @@ task | reason | consequence of no doing
 
 - Reflection
 
-### Week 7
+### Week 8 (3/22)
+
+- Plan
+
+Goal: catch blind spot
+
+task | reason | consequence of no doing
+-----|-----|-----
+List all basic data structure & practice it if I am not familiar with it | High-level review my week spot | growing blind spot
+Redo problem over 100 readiness score. Target number is 45. | Review past failure and overcome it. | Not improving.
+
+- Reflection
+
+
+### Week 7 (3/15)
 
 - Plan
 
@@ -65,9 +79,10 @@ Compiel Gauss Newton PDF | I feel like I have to complete a thing if it has star
 Suspended |-----|-----
 Google Problem (40) | I need to practice for interview | 1. don't get a job
 
-- Lesson
+- Reflection
 
 1. Each time think of recursive problem, think of dynamic programming.
+2. The burn out principle work! Keep that rule.
 
 
 ### Week 6 (Spring festival)
