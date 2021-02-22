@@ -20,6 +20,7 @@
 
 Eval Name | Date | Score | lesson
 -----|-----|-----|-----
+Google Online Assessment | 2/22 | 5.23/10 | 1. rewview binary search <br> 2. create better template for equalrange 
 Shoppee OJ | 2/20 | 1/2 | Prepare more on parsing for delimits <br> Some problem my forbid using std lib <br> implement priority que fail
 Google Online Assessment | 2/19 | 6.26/10 | segmentation tree implementation 
 Google On-Site Interview | 2/18 | 4.83/10 | recurssion & dp relation
@@ -59,6 +60,8 @@ Mock 5 round | Don't hide from reality | Not improving
 
 - Reflection
 
+1. review binary search template
+2. create code template for equalrange
 
 ### Week 7 (3/15)
 
