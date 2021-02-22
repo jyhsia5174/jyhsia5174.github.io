@@ -32,11 +32,11 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 
 Goal: catch blind spot
 
-task | reason | consequence of no doing
------|-----|-----
-List all basic data structure & practice it if I am not familiar with it | High-level review my week spot | growing blind spot
-Redo problem over 100 readiness score. Target number is 45. | Review past failure and overcome it. | Not improving.
-Mock 5 round | Don't hide from reality | Not improving
+Task | Reason | Consequence of no doing | Progress
+-----|-----|----- |-----
+List all basic data structure & practice it if I am not familiar with it | High-level review my week spot | growing blind spot | 
+Redo problem over 100 readiness score. Target number is 45. | Review past failure and overcome it. | Not improving. | 
+Mock 5 round | Don't hide from reality | Not improving | 1 / 5
 
 - Reflection
 
