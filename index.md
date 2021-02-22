@@ -1,4 +1,6 @@
-# 2021 Challenge
+## [2021 Weekly Challenge !!](https://docs.google.com/spreadsheets/d/1UiioTqCMDjRUGJ8NVoevSkdRdIhtB_1mg_VeIwtZpRg/edit?usp=sharing)
+
+Seek More Challenge Score "The day we stop learning is the day we die" by Michael Scott, The Warlock
 
 [Git Repo](https://github.com/jyhsia5174/jyhsia5174.github.io)
 
@@ -7,10 +9,6 @@
 [Gauss Newton](https://jyhsia5174.github.io/gauss-newton.md)
 
 [Calendar](https://calendar.google.com/calendar/u/0/r)
-
-## Whole Year
-
-- 30 books (finished: 3 / 30)
 
 [2021 Reading Challenge](https://www.goodreads.com/user_challenges/26399475)
 
@@ -26,15 +24,7 @@ Google Online Assessment | 2/19 | 6.26/10 | segmentation tree implementation
 Google On-Site Interview | 2/18 | 4.83/10 | recurssion & dp relation
 Google Phone Interview | 1/18 | 4.20/10 | none
 
-
-## [2021 Weekly Challenge !!](https://docs.google.com/spreadsheets/d/1UiioTqCMDjRUGJ8NVoevSkdRdIhtB_1mg_VeIwtZpRg/edit?usp=sharing)
-
-Seek More Challenge Score:
-
-"The day we stop learning is the day we die" by Michael Scott, The Warlock
-
-
-## Reflection
+## Plan & Note
 
 ### Week Template
 
