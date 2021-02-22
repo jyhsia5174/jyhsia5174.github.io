@@ -43,6 +43,22 @@ Mock 5 round | Don't hide from reality | Not improving | 1 / 5
 1. review binary search template
 2. create code template for equalrange
 
+- Rolling hash
+
+```cpp
+typedef long long int lli;
+lli m = 10e9+9;
+lli p = 31;
+
+lli hash( const string &s ){
+    lli res = 0;
+    for(int i = 0; i < s; i++){
+        res = (res * p + (s[i] - 'a' + 1) ) % m;
+    }
+    return res;
+}
+```
+
 ### Week 7 (3/15)
 
 - Plan
