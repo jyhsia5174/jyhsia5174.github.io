@@ -26,16 +26,6 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 
 ## Plan & Note
 
-### Week Template
-
-- Plan
-
-task | reason | consequence of no doing
------|-----|-----
-task | reason | consequence of no doing
-
-- Reflection
-
 ### Week 8 (3/22)
 
 - Plan
