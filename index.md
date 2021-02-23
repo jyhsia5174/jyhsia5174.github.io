@@ -4,7 +4,7 @@ Seek More Challenge Score "The day we stop learning is the day we die" by Michae
 
 [Git Repo](https://github.com/jyhsia5174/jyhsia5174.github.io)
 
-[LeetCode](https://github.com/jyhsia5174/leetcode.solution)
+[LeetCode Record](https://github.com/jyhsia5174/leetcode.solution)
 
 [Gauss Newton](https://jyhsia5174.github.io/gauss-newton.md)
 
