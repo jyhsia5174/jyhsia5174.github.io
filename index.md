@@ -18,6 +18,7 @@ Seek More Challenge Score "The day we stop learning is the day we die" by Michae
 
 Eval Name | Date | Score | lesson
 -----|-----|-----|-----
+Google Online Assessment | 2/23 | 6.92/10 | 
 Google Online Assessment | 2/22 | 5.23/10 | 1. rewview binary search <br> 2. create better template for equalrange 
 Shoppee OJ | 2/20 | 1/2 | Prepare more on parsing for delimits <br> Some problem my forbid using std lib <br> implement priority que fail
 Google Online Assessment | 2/19 | 6.26/10 | segmentation tree implementation 
