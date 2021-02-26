@@ -4,7 +4,7 @@ Seek More Challenge Score "The day we stop learning is the day we die" by Michae
 
 [Git Repo](https://github.com/jyhsia5174/jyhsia5174.github.io)
 
-[Codeforces EDU List](https://codeforces.com/favourite/blogEntries)
+[Codeforces EDU List](https://codeforces.com/blog/entry/74315)
 
 [LeetCode Record](https://github.com/jyhsia5174/leetcode.solution)
 
