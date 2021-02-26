@@ -46,6 +46,7 @@ Mock 5 round | Don't hide from reality | Not improving | 1 / 5
 1. review binary search template
 2. create code template for equalrange
 3. Fenwick tree / seg tree
+4. [USACO](https://usaco.guide/)
 
 - Rolling hash
 
