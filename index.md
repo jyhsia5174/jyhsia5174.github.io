@@ -6,7 +6,7 @@ Seek More Challenge Score "The day we stop learning is the day we die" by Michae
 
 [Codeforces EDU List](https://codeforces.com/blog/entry/74315)
 
-[LeetCode Record](https://github.com/jyhsia5174/leetcode.solution)
+[Algo DashBoard](https://docs.google.com/spreadsheets/d/15wqCg_TNspMuxK2lcMUz89XOeDfa6TESQcPvyJmCrkc/edit#gid=0)
 
 [Gauss Newton](https://jyhsia5174.github.io/gauss-newton.md)
 
