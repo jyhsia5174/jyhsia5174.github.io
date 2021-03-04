@@ -37,7 +37,9 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 
 ## Plan & Note
 
-### Week 8 (3/22)
+### Week 9 (3/1)
+
+### Week 8 (2/22)
 
 - Plan
 
@@ -45,12 +47,13 @@ Goal: catch blind spot
 
 Task | Reason | Consequence of no doing | Progress
 -----|-----|----- |-----
-List all basic data structure & practice it if I am not familiar with it | High-level review my week spot | growing blind spot | 
-Redo problem over 100 readiness score. Target number is 45. | Review past failure and overcome it. | Not improving. | 
-Mock 5 round | Don't hide from reality | Not improving | 1 / 5
+Mock 5 round | Don't hide from reality | Not improving | 5/ 5
+codeforce edu | Practice more harder problem set | Life in lie | 3 / 3
+Suspended | -----|----- |-----
+List all basic data structure & practice it if I am not familiar with it | High-level review my week spot | growing blind spot | 0 / all
+Redo problem over 100 readiness score. Target number is 45. | Review past failure and overcome it. | Not improving. | 3 / 45
 
 - Reflection
-
 1. review binary search template
 2. create code template for equalrange
 3. Fenwick tree / seg tree
@@ -72,7 +75,7 @@ lli hash( const string &s ){
 }
 ```
 
-### Week 7 (3/15)
+### Week 7 (2/15)
 
 - Plan
 
@@ -170,7 +173,7 @@ sub     len break   mid lsub    lLen    rsub    rLen
 */
 ```
 
-### Week 5
+### Week 5 (2/15)
 
 - Algorithm
 
