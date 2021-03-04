@@ -45,16 +45,17 @@ Goal: catch blind spot
 
 Task | Reason | Consequence of no doing | Progress
 -----|-----|----- |-----
-Codeforce edu 8 virtual | pushing the limits | life in the bubble | 4 / 8
-Comple
+Codeforce edu 8 virtual | pushing the limits | live in the bubble | 4 / 8
+Binary search template | concrete the implemenatation | unstable implementation | 0 / 1
+equal range templeate | concrete the implementation | unstable implementation | 0 / 1
+Fenwick tree templeate | concrete the implementation | unstable implementation | 0 / 1
+seg tree templeate | concrete the implementation | unstable implementation | 0 / 1
+rolling hash template | concrete the implementation | unstable implementation | 0 / 1
+evaluate [USACO](https://usaco.guide/) | explore more materials | live in the bubble | 0 / 1
 Suspended | -----|----- |-----
 
 
 - Reflection
-1. review binary search template
-2. create code template for equalrange
-3. Fenwick tree / seg tree
-4. [USACO](https://usaco.guide/)
 
 ### Week 8 (2/22)
 
@@ -64,8 +65,8 @@ Goal: catch blind spot
 
 Task | Reason | Consequence of no doing | Progress
 -----|-----|----- |-----
-Mock 5 round | Don't hide from reality | Not improving | 5/ 5
-codeforce edu | Practice more harder problem set | Life in lie | 3 / 3
+Mock 5 round | Don't hide from reality | Not improving | 4/ 5
+codeforce edu 4 | Practice more harder problem set | Life in lie | 3 / 4
 Suspended | -----|----- |-----
 List all basic data structure & practice it if I am not familiar with it | High-level review my week spot | growing blind spot | 0 / all
 Redo problem over 100 readiness score. Target number is 45. | Review past failure and overcome it. | Not improving. | 3 / 45
