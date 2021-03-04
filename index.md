@@ -45,7 +45,7 @@ Goal: catch blind spot
 
 Task | Reason | Consequence of no doing | Progress
 -----|-----|----- |-----
-Codeforce edu 8 virtual | pushing the limits | live in the bubble | 4 / 8
+Codeforce edu 8 virtual | pushing the limits | live in the bubble | 5 / 8
 Binary search template | concrete the implemenatation | unstable implementation | 0 / 1
 equal range templeate | concrete the implementation | unstable implementation | 0 / 1
 Fenwick tree templeate | concrete the implementation | unstable implementation | 0 / 1
@@ -54,8 +54,9 @@ rolling hash template | concrete the implementation | unstable implementation | 
 evaluate [USACO](https://usaco.guide/) | explore more materials | live in the bubble | 0 / 1
 Suspended | -----|----- |-----
 
-
 - Reflection
+1. power(x) function 
+2. in prime ring a^(p-1) = 1 => a^(-1) = a^(p-2)
 
 ### Week 8 (2/22)
 
