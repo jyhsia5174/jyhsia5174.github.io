@@ -39,6 +39,23 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 
 ### Week 9 (3/1)
 
+- Plan
+
+Goal: catch blind spot
+
+Task | Reason | Consequence of no doing | Progress
+-----|-----|----- |-----
+Codeforce edu 8 virtual | pushing the limits | life in the bubble | 4 / 8
+Comple
+Suspended | -----|----- |-----
+
+
+- Reflection
+1. review binary search template
+2. create code template for equalrange
+3. Fenwick tree / seg tree
+4. [USACO](https://usaco.guide/)
+
 ### Week 8 (2/22)
 
 - Plan
