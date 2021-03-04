@@ -46,7 +46,7 @@ Goal: catch blind spot
 Task | Reason | Consequence of no doing | Progress
 -----|-----|----- |-----
 Codeforce edu 8 virtual | pushing the limits | live in the bubble | 5 / 8
-Binary search template | concrete the implemenatation | unstable implementation | 0 / 1
+Binary search template | concrete the implemenatation | unstable implementation | 1 / 1
 equal range templeate | concrete the implementation | unstable implementation | 0 / 1
 Fenwick tree templeate | concrete the implementation | unstable implementation | 0 / 1
 seg tree templeate | concrete the implementation | unstable implementation | 0 / 1
