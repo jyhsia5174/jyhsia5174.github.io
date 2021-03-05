@@ -52,6 +52,7 @@ equal range templeate | concrete the implementation | unstable implementation | 
 Fenwick tree templeate | concrete the implementation | unstable implementation | 0 / 1
 seg tree templeate | concrete the implementation | unstable implementation | 0 / 1
 rolling hash template | concrete the implementation | unstable implementation | 0 / 1
+suffix array | concrete the implementation | unstable implementation | 0 / 1
 evaluate [USACO](https://usaco.guide/) | explore more materials | live in the bubble | 0 / 1
 Suspended | -----|----- |-----
 
