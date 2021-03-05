@@ -57,6 +57,7 @@ Suspended | -----|----- |-----
 - Reflection
 1. power(x) function 
 2. in prime ring a^(p-1) = 1 => a^(-1) = a^(p-2)
+3. OS & Network knowledge
 
 ### Week 8 (2/22)
 
