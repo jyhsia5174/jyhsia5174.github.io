@@ -22,8 +22,6 @@ Seek More Challenge Score "The day we stop learning is the day we die" by Michae
 
 ![test](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWJUXuMvzdmC6P0nDwwbcqG1vpOqHrOIUjM9vxfT0-NbRoc-fykjhgyPRoVJuMckVD9ukjEPXog0Pj/pubchart?oid=747657254&amp;format=image)
 
-<iframe width="828" height="451" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWJUXuMvzdmC6P0nDwwbcqG1vpOqHrOIUjM9vxfT0-NbRoc-fykjhgyPRoVJuMckVD9ukjEPXog0Pj/pubchart?oid=747657254&amp;format=image"></iframe>
-
 ## Evaluation Result
 
 "Understanding what is true is essential for success, and being radically transparent about everything, including mistakes and weaknesses, helps create the understanding that leads to improvements." by Ray Dalio.
