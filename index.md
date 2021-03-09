@@ -63,6 +63,9 @@ Suspended | -----|----- |-----
 5. uneasy about backtrack
 6. doubly link list template
 7. backpack problem
+8. dfs template
+9. circle detection template
+10. scc template
 
 ### Week 8 (2/22)
 
