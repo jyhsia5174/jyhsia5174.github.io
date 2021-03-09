@@ -59,6 +59,10 @@ Suspended | -----|----- |-----
 1. power(x) function 
 2. in prime ring a^(p-1) = 1 => a^(-1) = a^(p-2)
 3. OS & Network knowledge
+4. dp scare scrap of me
+5. uneasy about backtrack
+6. doubly link list template
+7. backpack problem
 
 ### Week 8 (2/22)
 
