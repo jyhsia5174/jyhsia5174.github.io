@@ -37,6 +37,34 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 
 ## Plan & Note
 
+### Week 9 (3/8)
+
+- Plan
+
+Goal: catch blind spot
+
+Task | Reason | Consequence of no doing | Progress
+-----|-----|----- |-----
+Codeforce edu 8 virtual | pushing the limits | live in the bubble | 0 / 4
+Practice problems from not ready tags | confront the weakness | slow learning curve | 0 / 16
+equal range templeate | concrete the implementation | unstable implementation | 0 / 1
+Fenwick tree templeate | concrete the implementation | unstable implementation | 0 / 1
+seg tree templeate | concrete the implementation | unstable implementation | 0 / 1
+rolling hash template | concrete the implementation | unstable implementation | 0 / 1
+suffix array | concrete the implementation | unstable implementation | 0 / 1
+doubly linked list template | concrete the implementation | unstable implementation | 0 / 1
+scc template | concrete the implementation | unstable implementation | 0 / 1
+dfs template | concrete the implementation | unstable implementation | 0 / 1
+Suspended | -----|----- |-----
+
+- Not familiar tags
+1. string
+2. dp
+3. divide and conquer
+
+- Reflection
+1. OS & Network knowledge
+
 ### Week 9 (3/1)
 
 - Plan
@@ -45,7 +73,7 @@ Goal: catch blind spot
 
 Task | Reason | Consequence of no doing | Progress
 -----|-----|----- |-----
-Codeforce edu 8 virtual | pushing the limits | live in the bubble | 5 / 8
+Codeforce edu 8 virtual | pushing the limits | live in the bubble | 7 / 8
 Binary search template | concrete the implemenatation | unstable implementation | 1 / 1
 equal range templeate | concrete the implementation | unstable implementation | 0 / 1
 Fenwick tree templeate | concrete the implementation | unstable implementation | 0 / 1
