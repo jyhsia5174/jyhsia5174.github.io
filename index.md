@@ -37,7 +37,9 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 
 ## Plan & Note
 
-### Week 9 (3/8)
+### Week 10 (3/8)
+
+- Result
 
 - Plan
 
@@ -66,6 +68,8 @@ Suspended | -----|----- |-----
 1. OS & Network knowledge
 
 ### Week 9 (3/1)
+
+- Result 80
 
 - Plan
 
