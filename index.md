@@ -49,8 +49,8 @@ Goal: catch blind spot
 
 Task | Reason | Consequence of no doing | Progress
 -----|-----|----- |-----
-Codeforce edu 8 virtual | pushing the limits | live in the bubble | 0 / 4
-Practice problems from not ready tags | confront the weakness | slow learning curve | 0 / 16
+Codeforce constext ABCD | pushing the limits | live in the bubble | 2 / 4
+Practice problems from not ready tags | confront the weakness | slow learning curve | 3 / 16
 equal range templeate | concrete the implementation | unstable implementation | 0 / 1
 Fenwick tree templeate | concrete the implementation | unstable implementation | 0 / 1
 seg tree templeate | concrete the implementation | unstable implementation | 0 / 1
