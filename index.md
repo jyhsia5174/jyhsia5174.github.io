@@ -39,6 +39,40 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 
 ## Plan & Note
 
+
+### Week 11 (3/15)
+
+- Result
+
+- Plan
+
+Goal: catch blind spot
+
+Task | Reason | Consequence of no doing | Progress
+-----|-----|----- |-----
+Codeforce constext ABCD | pushing the limits | live in the bubble | 0 / 5
+Practice problems from not ready tags | confront the weakness | slow learning curve | 0 / 10
+equal range templeate | concrete the implementation | unstable implementation | 0 / 1
+Fenwick tree templeate | concrete the implementation | unstable implementation | 0 / 1
+seg tree templeate | concrete the implementation | unstable implementation | 0 / 1
+rolling hash template | concrete the implementation | unstable implementation | 0 / 1
+suffix array | concrete the implementation | unstable implementation | 0 / 1
+doubly linked list template | concrete the implementation | unstable implementation | 0 / 1
+scc template | concrete the implementation | unstable implementation | 0 / 1
+dfs template | concrete the implementation | unstable implementation | 0 / 1
+Suspended | -----|----- |-----
+
+- Not familiar tags
+1. string
+2. dp
+3. divide and conquer
+
+- Reflection
+1. OS & Network knowledge
+2. rethink edu16D solution
+
+
+
 ### Week 10 (3/8)
 
 - Result
@@ -49,8 +83,8 @@ Goal: catch blind spot
 
 Task | Reason | Consequence of no doing | Progress
 -----|-----|----- |-----
-Codeforce constext ABCD | pushing the limits | live in the bubble | 2 / 4
-Practice problems from not ready tags | confront the weakness | slow learning curve | 3 / 16
+Codeforce constext ABCD | pushing the limits | live in the bubble | 4 / 4
+Practice problems from not ready tags | confront the weakness | slow learning curve | 6 / 16
 equal range templeate | concrete the implementation | unstable implementation | 0 / 1
 Fenwick tree templeate | concrete the implementation | unstable implementation | 0 / 1
 seg tree templeate | concrete the implementation | unstable implementation | 0 / 1
