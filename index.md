@@ -65,6 +65,7 @@ Suspended | -----|----- |-----
 1. string
 2. dp
 3. divide and conquer
+4. rethink edu16D solution
 
 - Reflection
 1. OS & Network knowledge
