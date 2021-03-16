@@ -20,7 +20,7 @@ Seek More Challenge Score "The day we stop learning is the day we die" by Michae
 
 [Explore](https://terrytao.wordpress.com/career-advice/)
 
-![test](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWJUXuMvzdmC6P0nDwwbcqG1vpOqHrOIUjM9vxfT0-NbRoc-fykjhgyPRoVJuMckVD9ukjEPXog0Pj/pubchart?oid=747657254&amp;format=image)
+![test](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWJUXuMvzdmC6P0nDwwbcqG1vpOqHrOIUjM9vxfT0-NbRoc-fykjhgyPRoVJuMckVD9ukjEPXog0Pj/pubchart?oid=1789596842&amp;format=image)
 
 ![test2](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWJUXuMvzdmC6P0nDwwbcqG1vpOqHrOIUjM9vxfT0-NbRoc-fykjhgyPRoVJuMckVD9ukjEPXog0Pj/pubchart?oid=1635589332&amp;format=image)
 
