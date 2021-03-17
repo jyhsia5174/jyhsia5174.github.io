@@ -54,6 +54,7 @@ Codeforce constext ABCD | pushing the limits | live in the bubble | 1 / 5
 dp 4 | confront the weakness | slow learning curve | 2 / 4
 divide and conquer 4 | confront the weakness | slow learning curve | 1 / 4
 string 4 | confront the weakness | slow learning curve | 0 / 4
+gcd, floor, ceil function | confront the weakness | slow learning curve | 1 / 1
 equal range templeate | concrete the implementation | unstable implementation | 0 / 1
 Fenwick tree templeate | concrete the implementation | unstable implementation | 0 / 1
 seg tree templeate | concrete the implementation | unstable implementation | 0 / 1
