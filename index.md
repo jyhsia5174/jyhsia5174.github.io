@@ -50,7 +50,7 @@ Goal: catch blind spot
 
 Task | Reason | Consequence of no doing | Progress
 -----|-----|----- |-----
-Codeforce constext ABCD | pushing the limits | live in the bubble | 1 / 5
+Codeforce constext ABCD | pushing the limits | live in the bubble | 3 / 5
 dp 4 | confront the weakness | slow learning curve | 2 / 4
 divide and conquer 4 | confront the weakness | slow learning curve | 1 / 4
 string 4 | confront the weakness | slow learning curve | 0 / 4
