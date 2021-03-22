@@ -8,6 +8,8 @@ Seek More Challenge Score "The day we stop learning is the day we die" by Michae
 
 [Git Repo](https://github.com/jyhsia5174/jyhsia5174.github.io)
 
+[Codeforce Div. 1 List](https://contestmania.web.app/codeforces?category=Div1)
+
 [Codeforces EDU List](https://codeforces.com/blog/entry/74315)
 
 [Algo DashBoard](https://docs.google.com/spreadsheets/d/15wqCg_TNspMuxK2lcMUz89XOeDfa6TESQcPvyJmCrkc/edit#gid=0)
