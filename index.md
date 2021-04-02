@@ -51,16 +51,16 @@ Goal: catch blind spot
 
 Task | Reason | Consequence of no doing | Progress
 -----|-----|----- |-----
-Codeforce Div1 ABCD | pushing the limits | live in the bubble | 0 / 5
-equal range templeate | concrete the implementation | unstable implementation | 0 / 1
+Codeforce Div1 ABCD | pushing the limits | live in the bubble | 4 / 5
+equal range templeate | concrete the implementation | unstable implementation | 1 / 1
 Fenwick tree templeate | concrete the implementation | unstable implementation | 0 / 1
+Suspended | -----|----- |-----
 seg tree templeate | concrete the implementation | unstable implementation | 0 / 1
 rolling hash template | concrete the implementation | unstable implementation | 0 / 1
 suffix array | concrete the implementation | unstable implementation | 0 / 1
 doubly linked list template | concrete the implementation | unstable implementation | 0 / 1
 scc template | concrete the implementation | unstable implementation | 0 / 1
 dfs template | concrete the implementation | unstable implementation | 0 / 1
-Suspended | -----|----- |-----
 
 - Not familiar tags
 1. string
