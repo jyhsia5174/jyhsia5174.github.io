@@ -6,7 +6,7 @@ Hsia, Jui-Yang (夏睿陽)
 
 Seek More Challenge Score "The day we stop learning is the day we die" by Michael Scott, The Warlock
 
-[Become Top SE](https://norvig.com/21-days.html)
+[Become Top SWE](https://norvig.com/21-days.html)
 (Read it evaryday!)
 
 [Git Repo](https://github.com/jyhsia5174/jyhsia5174.github.io)
