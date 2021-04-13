@@ -44,6 +44,13 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 
 ## Plan & Note
 
+### Week 14 (4/12)
+
+Bellman ford
+Tree seg
+Odd even middle
+MST
+
 ### Week 12 (3/29)
 
 - Result
