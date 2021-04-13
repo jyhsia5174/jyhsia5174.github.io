@@ -47,9 +47,11 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 ### Week 14 (4/12)
 
 1. ~~Bellman ford~~
-2. Tree seg
-3. Odd even middle
-4. MST
+- dp[i][k] + dp[k][j] can overflow if initialize is INT_MAX
+- remember to init dp[i][i] = 0 
+3. Tree seg
+4. Odd even middle
+5. MST
 
 ### Week 12 (3/29)
 
