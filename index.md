@@ -49,9 +49,9 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 1. ~~Bellman ford~~
 - dp[i][k] + dp[k][j] can overflow if initialize is INT_MAX
 - remember to init dp[i][i] = 0 
-3. Tree seg
+3. ~~Tree seg~~
 4. Odd even middle
-5. MST
+5. ~~MST~~
 
 ### Week 12 (3/29)
 
