@@ -53,6 +53,36 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 4. Odd even middle
 5. ~~MST~~
 
+#### training tag
+
+8. backtrack
+9. tree
+10. dfs
+11. bfs
+12. graph
+13. trie
+14. recursion
+
+3. div & conquer
+4. dp
+6. stack (calculator)
+
+8. string
+20. rolling hash
+21. Suffix Array
+
+#### opt tag
+
+22. geometry
+19. line swap
+2. bisearch
+11. union find
+16. orderedmap
+7. bit munipulation
+15. minmax
+18. random
+
+
 ### Week 12 (3/29)
 
 - Result
