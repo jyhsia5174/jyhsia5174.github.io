@@ -56,7 +56,7 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 #### training tag
 
 ```
-backtrack
+backtrack *
 tree
 dfs
 bfs
@@ -72,7 +72,7 @@ recursion
 ```
 
 ```
-8. string
+8. string *
 20. rolling hash
 21. Suffix Array
 ```
