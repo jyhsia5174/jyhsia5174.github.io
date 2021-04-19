@@ -11,19 +11,21 @@ Seek More Challenge Score "The day we stop learning is the day we die" by Michae
 
 [Git Repo](https://github.com/jyhsia5174/jyhsia5174.github.io)
 
-[Codeforce Div. 1 List](https://contestmania.web.app/codeforces?category=Div1)
-
-[Codeforces EDU List](https://codeforces.com/blog/entry/74315)
-
 [Algo DashBoard](https://docs.google.com/spreadsheets/d/15wqCg_TNspMuxK2lcMUz89XOeDfa6TESQcPvyJmCrkc/edit#gid=0)
 
+[Explore](https://terrytao.wordpress.com/career-advice/)
+
+<!---
 [Gauss Newton](https://jyhsia5174.github.io/gauss-newton.md)
 
 [Calendar](https://calendar.google.com/calendar/u/0/r)
 
 [2021 Reading Challenge](https://www.goodreads.com/user_challenges/26399475)
 
-[Explore](https://terrytao.wordpress.com/career-advice/)
+[Codeforce Div. 1 List](https://contestmania.web.app/codeforces?category=Div1)
+
+[Codeforces EDU List](https://codeforces.com/blog/entry/74315)
+--->
 
 ![test](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWJUXuMvzdmC6P0nDwwbcqG1vpOqHrOIUjM9vxfT0-NbRoc-fykjhgyPRoVJuMckVD9ukjEPXog0Pj/pubchart?oid=1789596842&amp;format=image)
 
@@ -43,6 +45,33 @@ Google On-Site Interview | 2/18 | 4.83/10 | recurssion & dp relation
 Google Phone Interview | 1/18 | 4.20/10 | none
 
 ## Plan & Note
+
+### Week 15 (4/19)
+
+#### Practice tag
+
+1. tarjan
+2. scc
+- kosaraju
+4. hamilton
+5. mst
+- kruskal 
+- prime
+6. euler path
+
+#### dfs graph edge classification:
+- tree edge
+- back edge
+- forward edge
+- cross edge
+
+#### good material source
+
+- [建國中學 2015 年資訊科培訓網站](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2015)
+
+#### Reflection
+- Pactice by doing not reading.
+
 
 ### Week 14 (4/12)
 
