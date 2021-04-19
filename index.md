@@ -70,7 +70,8 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 - [建國中學 2015 年資訊科培訓網站](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2015)
 
 #### Reflection
-- Pactice by doing not reading.
+- Problem oriented training is more efficient to master a knowledge.
+- Support with high-level knowledge guide map.
 
 
 ### Week 14 (4/12)
