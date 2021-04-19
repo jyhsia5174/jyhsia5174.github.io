@@ -25,16 +25,17 @@ Seek More Challenge Score "The day we stop learning is the day we die" by Michae
 [Codeforce Div. 1 List](https://contestmania.web.app/codeforces?category=Div1)
 
 [Codeforces EDU List](https://codeforces.com/blog/entry/74315)
+
+![test2](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWJUXuMvzdmC6P0nDwwbcqG1vpOqHrOIUjM9vxfT0-NbRoc-fykjhgyPRoVJuMckVD9ukjEPXog0Pj/pubchart?oid=1635589332&amp;format=image)
 --->
 
 ![test](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWJUXuMvzdmC6P0nDwwbcqG1vpOqHrOIUjM9vxfT0-NbRoc-fykjhgyPRoVJuMckVD9ukjEPXog0Pj/pubchart?oid=1789596842&amp;format=image)
-
-![test2](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWJUXuMvzdmC6P0nDwwbcqG1vpOqHrOIUjM9vxfT0-NbRoc-fykjhgyPRoVJuMckVD9ukjEPXog0Pj/pubchart?oid=1635589332&amp;format=image)
 
 ## Evaluation Result
 
 "Understanding what is true is essential for success, and being radically transparent about everything, including mistakes and weaknesses, helps create the understanding that leads to improvements." by Ray Dalio.
 
+<!---
 Eval Name | Date | Score | lesson
 -----|-----|-----|-----
 Google Online Assessment | 2/23 | 6.92/10 | 
@@ -43,6 +44,7 @@ Shoppee OJ | 2/20 | 1/2 | Prepare more on parsing for delimits <br> Some problem
 Google Online Assessment | 2/19 | 6.26/10 | segmentation tree implementation 
 Google On-Site Interview | 2/18 | 4.83/10 | recurssion & dp relation
 Google Phone Interview | 1/18 | 4.20/10 | none
+--->
 
 ## Plan & Note
 
@@ -58,6 +60,12 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 - kruskal 
 - prime
 6. euler path
+
+#### use scc to convert graph to dag
+
+- scc
+- remove self-loop
+- remove duplicate edge
 
 #### dfs graph edge classification:
 - tree edge
