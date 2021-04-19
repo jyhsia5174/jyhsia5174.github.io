@@ -50,8 +50,9 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 
 ### Week 15 (4/19)
 
-#### Practice tag
+#### training tag
 
+```
 1. tarjan
 2. scc
 - kosaraju
@@ -60,6 +61,29 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 - kruskal 
 - prime
 6. euler path
+```
+
+```
+backtrack *
+graph ****
+tree *
+dfs *
+bfs
+trie
+recursion
+```
+
+```
+3. div & conquer
+4. dp
+6. stack (calculator)
+```
+
+```
+8. string *
+20. rolling hash
+21. Suffix Array
+```
 
 #### use scc to convert graph to dag
 
