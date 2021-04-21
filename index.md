@@ -105,6 +105,15 @@ recursion
 - Problem oriented training is more efficient to master a knowledge.
 - Support with high-level knowledge guide map.
 
+#### interesting stuff
+
+David Eagleman: https://eagleman.com/​
+Rahul Jundial: http://drjandial.com/​  
+Max Lugavere: https://www.maxlugavere.com/​
+Moran Cerf: https://www.morancerf.com/​
+V.S. Ramachandran: http://cbc.ucsd.edu/ramabio.html​
+Andrew Huberman: https://www.hubermanlab.com/
+
 
 ### Week 14 (4/12)
 
