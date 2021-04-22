@@ -50,6 +50,10 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 
 ### Week 15 (4/19)
 
+#### Reflection
+
+1. master theorem is not familiar with.
+
 #### training tag
 
 ```
