@@ -78,8 +78,8 @@ recursion
 ```
 
 ```
-3. div & conquer
-4. dp
+3. div & conquer *
+4. dp *
 6. stack (calculator)
 ```
 
