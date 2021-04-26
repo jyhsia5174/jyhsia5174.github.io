@@ -65,6 +65,7 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 - kruskal 
 - prime
 6. euler path
+7. Hungarian Algorithm
 ```
 
 ```
@@ -79,7 +80,7 @@ recursion
 
 ```
 3. div & conquer *
-4. dp *
+4. dp ***
 6. stack (calculator)
 ```
 
