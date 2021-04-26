@@ -172,6 +172,7 @@ recursion
 18. random
 19. sufix-array linear complexity algo SA-IS
 20. RMQ sparse table
+21. Ukkonen's algorithm is a linear-time, online algorithm for constructing suffix trees
 ```
 
 
