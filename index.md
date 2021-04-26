@@ -86,7 +86,7 @@ recursion
 
 ```
 8. string *
-20. rolling hash
+20. rolling hash *
 21. Suffix Array *
 22. suffix array + lcp *
 ```
