@@ -169,6 +169,7 @@ recursion
 7. bit munipulation
 15. minmax
 18. random
+19. sufix-array linear complexity algo SA-IS
 ```
 
 
