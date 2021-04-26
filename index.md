@@ -106,6 +106,7 @@ recursion
 #### good material source
 
 - [建國中學 2015 年資訊科培訓網站](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2015)
+- [E-Maxx Algorithms in English](https://cp-algorithms.com/)
 
 #### Reflection
 - Problem oriented training is more efficient to master a knowledge.
