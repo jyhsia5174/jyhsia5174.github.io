@@ -87,7 +87,8 @@ recursion
 ```
 8. string *
 20. rolling hash
-21. Suffix Array
+21. Suffix Array *
+22. suffix array + lcp *
 ```
 
 #### use scc to convert graph to dag
@@ -170,6 +171,7 @@ recursion
 15. minmax
 18. random
 19. sufix-array linear complexity algo SA-IS
+20. RMQ sparse table
 ```
 
 
