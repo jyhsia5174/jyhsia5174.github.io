@@ -80,6 +80,30 @@ Meta training.
 - Learn all algo in 挑戰程序設計競賽2 : 算法和數據結構. 
 
 
+#### Quate I am Pondering
+
+Source: [Stoic Quotes On Confronting And Discarding Anxiety](https://dailystoic.com/30-stoic-quotes-on-confronting-and-discarding-anxiety/)
+
+```
+When I see an anxious person, I ask myself, what do they want? For if a person wasn’t wanting something outside of their own control, why would they be stricken by anxiety? — Epictetus
+```
+
+```
+“Caretake this moment. Immerse yourself in its particulars. Respond to this person or that person, this challenge, this deed. Quit the evasions. Stop giving yourself needless trouble. It is time to really live; to fully inhabit the situation you happen to be in right now. You are not some disinterested bystander. Participate. Exert yourself.” — Epictetus
+```
+
+```
+Man is not worried by real problems so much as by his imagined anxieties about real problems. — Epictetus
+```
+
+```
+“It’s ruinous for the soul to be anxious about the future and miserable in advance of misery, engulfed by anxiety that the things it desires might remain it’s own until the very end. For such a soul will never be at rest— by longing for things to come it will lose the ability to enjoy present things.” — Seneca
+```
+
+```
+Don’t let your reflection on the whole sweep of life crush you. Don’t fill your mind with all the bad things that might still happen. Stay focused on the present situation and ask yourself why it’s so unbearable and can’t be survived. —…
+```
+
 ### Week 15 (4/19)
 
 #### Reflection
