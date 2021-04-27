@@ -48,6 +48,37 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 
 ## Plan & Note
 
+### Week 16 (4/26)
+
+#### Distraction (tag: mindset)
+
+Material source: 
+[Indistractable: How to Control Your Attention and Choose Your Life](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X)
+[fs blog: Nir Eyal: Mastering Indistraction](https://fs.blog/knowledge-project/nir-eyal/)
+
+- is distracted from "pre-defined task"
+- s1: understand the underlying emotion
+- s2: finding the root cause of emotion
+- s3: resolving the emotion
+
+ex: 
+- anxiety about the way I practice.
+- fear about choosing the wrong problem to practice and fail the interview
+- unable to focus on training 
+- seek dopamin releasing activity (ex: youtube, manga, ..., etc) or do sub-optimal task (ex: replying email, do noncritical paper work, ..., etc)
+
+sol:
+- define meta goal above interview (ex: acheiving international grandmaster in codeforce)
+- define why meta goal should be acheived (ex: acquire a solid algo foundation, practice to master a skill)
+- remind myself about the meta goal. Anything else is unnecessary.
+- build training task based on the meta goal.
+
+exec:
+Meta training. 
+- Learn all algo in [E-Maxx Algorithms in English](https://cp-algorithms.com/).
+- Learn all algo in 挑戰程序設計競賽2 : 算法和數據結構. 
+
+
 ### Week 15 (4/19)
 
 #### Reflection
