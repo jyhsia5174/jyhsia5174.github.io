@@ -56,7 +56,7 @@ Material source:
 - [Indistractable: How to Control Your Attention and Choose Your Life](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X)
 - [fs blog: Nir Eyal: Mastering Indistraction](https://fs.blog/knowledge-project/nir-eyal/)
 
-
+prob:
 - is distracted from "pre-defined task"
 - s1: understand the underlying emotion
 - s2: finding the root cause of emotion
