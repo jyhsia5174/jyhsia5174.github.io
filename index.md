@@ -53,8 +53,9 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 #### Distraction (tag: mindset)
 
 Material source: 
-[Indistractable: How to Control Your Attention and Choose Your Life](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X)
-[fs blog: Nir Eyal: Mastering Indistraction](https://fs.blog/knowledge-project/nir-eyal/)
+- [Indistractable: How to Control Your Attention and Choose Your Life](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X)
+- [fs blog: Nir Eyal: Mastering Indistraction](https://fs.blog/knowledge-project/nir-eyal/)
+
 
 - is distracted from "pre-defined task"
 - s1: understand the underlying emotion
