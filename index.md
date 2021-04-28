@@ -50,6 +50,10 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 
 ### Week 16 (4/26)
 
+#### Funny stuff
+
+[Feynman's Orange Juice Song](https://www.youtube.com/watch?v=2Ks8gsK22PA)
+
 - submit attendance record (5/5(三)下午5:00前繳交4月份助教出勤記錄表至R205系辦公室)
 - ca homework 4 (Due: May 5 by 2:20pm) (draft finish before Sun. Dived into details in Mon. night & Tue. morning! Otherwise, what's the point of doing something that can be easily achieved. It's not intersting and optimal.)
 - MS interview
