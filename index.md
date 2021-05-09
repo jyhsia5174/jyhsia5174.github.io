@@ -53,6 +53,7 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 #### Quates I am pondering
 
 "So just going all the way down. Understanding everything under you. It's really important to not abstract away things. You need to have a full understanding of the whole stack." by Andrej Karpathy
+[video](https://youtu.be/_au3yw46lcg?t=796)
 
 ### Week 17 (5/3)
 
