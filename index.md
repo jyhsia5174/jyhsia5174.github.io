@@ -48,7 +48,16 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 
 ## Plan & Note
 
-### Week 16 (5/10)
+### Week 18 (5/10)
+
+#### Algo
+
+- Kuhn's Algorithm for Maximum Bipartite Matching
+1. [base version](https://cp-algorithms.com/graph/kuhn_maximum_bipartite_matching.html)
+2. [O(node^2) version](https://pastebin.com/q12aBwya)
+3. https://codeforces.com/blog/entry/17023
+4. https://codeforces.com/blog/entry/58048 
+
 
 #### Quates I am pondering
 
@@ -56,7 +65,6 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 [video](https://youtu.be/_au3yw46lcg?t=796)
 
 ### Week 17 (5/3)
-
 
 ### Week 16 (4/26)
 
