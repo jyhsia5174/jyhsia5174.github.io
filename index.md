@@ -61,6 +61,8 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 - haskel installation
 - clash installation
 
+verilog developer:  Prabhu Goel, Phil Moorby, Chi-Lai Huang, and Douglas Warmke
+
 #### Algo
 
 - Kuhn's Algorithm for Maximum Bipartite Matching
