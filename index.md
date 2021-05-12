@@ -62,6 +62,7 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 - clash installation
 
 verilog developer:  Prabhu Goel, Phil Moorby, Chi-Lai Huang, and Douglas Warmke
+company: Cadence Design Systems, Inc.
 
 #### Algo
 
