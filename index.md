@@ -55,7 +55,7 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 ##### 5/ 12
 
 - verilog info
-[verilog version](https://en.wikipedia.org/wiki/Verilog)
+[~~verilog version~~](https://en.wikipedia.org/wiki/Verilog)
 [verilog tutorial](https://www.chipverify.com/verilog/verilog-tutorial)
 - clash documentation
 - haskel installation
