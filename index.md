@@ -49,6 +49,16 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 ## Plan & Note
 
 ### Week 18 (5/10)
+##### 5 / 13
+
+- Prep for team match
+    - Understand Google big goal and direction
+    - Get list of team and project details
+    - Prepare question to ask
+        - Prject fit with Google Goal
+        - todo 
+- OS
+    - For fun and secret goal (wwwwwwwwwwww). 
 
 #### verilog 
 
