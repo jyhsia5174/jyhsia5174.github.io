@@ -49,6 +49,13 @@ Google Phone Interview | 1/18 | 4.20/10 | none
 ## Plan & Note
 
 ### Week 18 (5/10)
+
+##### 5 / 14
+
+SYSTEM instructions are used to access system functionality that might require privileged access
+and are encoded using the I-type instruction format. These can be divided into two main classes:
+those that atomically read-modify-write control and status registers (CSRs), and all other potentially privileged instructions. 
+
 ##### 5 / 13
 
 - Prep for team match
